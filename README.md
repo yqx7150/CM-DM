@@ -41,7 +41,7 @@ Visualization of the underlying features of high-frequency operators. Yellow lin
 <div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig7.png"> </div>
 
 
-## D.	Convergence Analysis and Computational Cost
+## Convergence Analysis and Computational Cost
 <div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig7.png"> </div>
 
 
