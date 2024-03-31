@@ -19,7 +19,7 @@ Given the obstacle in accentuating the reconstruction accuracy for diagnosticall
 
 Visual Representation of different procedures of the proposed CM-DM. New k-space objects are constructed employing different high-frequency prior extractors which restrict the diffusion process to form “Weight-K-Space” and “Mask-K-Space” respectively, as shown in the blue and red parts of the first row. Yellow part of the second row illustrates that the input data is first constructed into the form corresponding to “Weight-K-Space” and “Mask-K-Space”. Subsequently, data is amalgamated and reconstructed either in series or parallel manner, followed by the introduction of a low-rank operator to further enhance the overall reconstruction effectiveness.
 
-<div align="center"><img src="https://github.com/yqx7150/CM-DM/blob/main/samples/fig. 2.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/CM-DM/blob/main/samples/fig. 2.png" width = "600" height = "450"> </div>
 
 Visualization of the underlying features of high-frequency operators. Yellow line represents underlying features in “Weight-K-Space” and the blue line exhibits features corresponding to different kernels of “Mas-K-Space”. Meanwhile, red line shows the correlation of different feature maps.
 
